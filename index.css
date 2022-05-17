@@ -1,0 +1,190 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Open+Sans:ital,wght@0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap');
+
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+header {
+    background-color: #160033;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    border-radius: 0px 0px 15px 15px;
+}
+h1 {
+    font-size: 50px;
+    font-weight: 600;
+    text-align: center;
+    color: white;
+}
+
+#cap {
+    align-items: center;
+}
+.caption {
+    color: white;
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    width: 600px;
+    margin: 0 auto;
+    padding-top: 40px;
+}
+
+.btn_h {
+    display: block;
+    text-align: center;
+    margin-top: 70px;
+
+}
+#header_btn {
+    font-size: 18px;
+    font-weight: 500;
+    border-color: white;
+    background-color: #160033;
+    color: white;
+    height: 40px;
+    border-radius: 5px;
+    width: 180px;
+}
+
+#header_btn:hover {
+    width: 130px;
+    font-size: 18px;
+    font-weight: bold;
+    color: white;
+    background-color: #160033;
+    width: 180px;
+    height: 40px;
+}
+
+#intro_html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    width: 800px;
+    text-align: center;
+    margin: auto;
+    padding-top: 30px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+}
+
+#HTML_section {
+    background-color: #7F8487;
+    color: white;
+    padding: 10px 0 50px 0px;
+}
+
+#img_P {
+display: flex;
+align-items: center;
+justify-content: center;
+
+padding-top: 40px;
+}
+
+#html_btn {
+margin-top: 10px;
+font-size: 15px;
+font-weight: 500;
+color: white;
+width: 130px;
+height: 30px;
+border-radius: 5px;
+background-color: #7F8487;
+border-color: white;
+box-shadow: none;
+
+}
+
+#html_btn:hover {
+    font-weight: 600;  
+}
+
+#html_img {
+    width: 200px;
+    height: 200px;
+
+}
+
+#p_b {
+    width: 600px;
+    font-size: 15px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600px;
+    padding-left: 50px;
+}
+
+#css_img {
+    width: 200px;
+    height: 200px;
+}
+
+.p_html {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+#img_p2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.p_css {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 15px;
+}
+
+#p_b2 {
+    width: 600px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 600px;
+    padding-left: 50px;
+    font-size: 15px;
+}
+
+#css_btn {
+margin-top: 10px;
+font-size: 15px;
+font-weight: 500;
+color: black;
+width: 130px;
+height: 30px;
+border-radius: 5px;
+background-color: #white;
+border-color: black;
+box-shadow: none;
+}
+
+#css_btn:hover {
+    font-weight: 600;  
+}
+
+#contact { 
+    padding-left: 50px;
+    font-size: 15px;
+}
+
+#contact_tab {
+    font-size: 18px;
+}
+
+footer {
+    margin-top: 30px;
+    padding: 30px 0px 30px 0px;
+    background-color: #7F8487;
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+
+
+
+
+
